@@ -1,2 +1,2 @@
 # SQL-Project
-Perform the data analysis on data to get insights from it.
+Perform the data analysis on data to get insights from it
